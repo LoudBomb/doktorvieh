@@ -1,0 +1,16 @@
+---
+title: Hallo liebe WolfsbergerInnen
+subtitle: Eine kurze Vorstellung
+layout: default
+modal-id: 1
+date: 2022-08-13
+img: willkommen.jpg
+thumbnail: willkommen-thumbnail.jpeg
+alt: image-alt
+project-date: August 2022
+author: Andreas Meißl
+social: https://www.facebook.com/Tierarztpraxis-Mag-Andreas-Mei%C3%9Fl-100404692680137
+description: Ich möchte euch auf diesem Weg gerne meine neu gegründete Tierarztpraxis in Magersdorf, St. Andrä vorstellen. Mit meinem voll ausgestatteten VW Caddy liegt mein Schwerpunkt vor allem in der Betreuung von Geflügel-, Schweine- und Wiederkäuerbeständen. Außerdem wird es ab Herbst dieses Jahres auch eine Kleintier-Ordination geben, sobald die Praxisräumlichkeiten fertiggestellt sind. Facebookseite findet ihr alle wichtigen Infos und wie ihr mich erreichen könnt (außerdem noch ein paar Fotos und die aktuelle Lage der Praxisbaustelle 😁)  Ich freue mich auf eure Anrufe!  Tierarzt Andreas Meißl
+
+
+---

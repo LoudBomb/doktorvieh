@@ -1,0 +1,43 @@
+
+url: "https://loudbomb.github.io/"
+baseurl: "/doktorvieh"
+
+# Site settings
+title: Doktor Vieh - Mag Andreas Meißl
+email: meissl.a@hotmail.com
+description: "Tierarztpraxis mit Schwerpunkt Geflügel, Schweine und Wiederkäuer. Ab Herbst 2022 auch Kleintierpraxis"
+
+
+# Team names, titles and social links
+people:
+- name: Mag. Andreas Meißl
+  pic: 1
+  position: Tierarzt
+  social:
+    - title: facebook
+      url: https://www.facebook.com/Tierarztpraxis-Mag-Andreas-Mei%C3%9Fl-100404692680137
+
+- name: Mag. Tamara Huber
+  pic: 2
+  position: Tierärztin
+#  social:
+#    - title: instagram
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Tierarztpraxis-Mag-Andreas-Mei%C3%9Fl-100404692680137
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Magersdorf 7
+  - line: 9433 St. Andrä
+
+# Build settings
+markdown: kramdown
+permalink: pretty
